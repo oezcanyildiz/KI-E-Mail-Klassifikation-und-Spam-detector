@@ -1,0 +1,3 @@
+timestamp,prediction,probability,email_text
+2025-12-03T23:20:46.673443,spam,0.6599,"Sehr geehrter Nutzer,"
+2025-12-03T23:21:23.423009,spam,0.6599,"Sehr geehrter Nutzer,"

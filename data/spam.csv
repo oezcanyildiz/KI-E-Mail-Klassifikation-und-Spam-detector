@@ -1,0 +1,803 @@
+subject,body
+"Sie haben gewonnen!","Ihr Gewinn wartet – bestätigen Sie jetzt Ihre Daten."
+"Paketstatus erforderlich","Bitte aktualisieren Sie Ihre Lieferadresse."
+"Dringend: Konto eingeschränkt","Loggen Sie sich ein, um die Sperre zu entfernen."
+"Letzte Erinnerung","Ihr Anspruch verfällt in wenigen Stunden."
+"Gratis Gutschein","Sichern Sie sich heute noch Ihren 100€ Bonus."
+"Bestellbestätigung fehlt","Bitte überprüfen Sie Ihre Zahlungsdaten."
+"Neuer Sicherheitsalarm","Ungewöhnliche Aktivität erkannt. Jetzt prüfen."
+"Verifizierung notwendig","Abgleich der Daten erforderlich."
+"Bonus freigeschaltet","Ihr 50€ Startbonus steht bereit."
+"Letzte Warnung","Ihr Konto wird geschlossen, wenn Sie nicht reagieren."
+"Versandinformation aktualisieren","Ihr Paket ist blockiert. Adresse bestätigen."
+"Zahlung fehlgeschlagen","Bitte aktualisieren Sie Ihre Karte."
+"Nur heute: Mega Rabatt","Erhalten Sie bis zu 80% Preisnachlass."
+"VIP Einladung","Exklusiver Zugang nur für kurze Zeit."
+"Kontoprüfung notwendig","Bitte bestätigen Sie Ihre Identität."
+"Neue Nachricht","Sie haben eine neue gesicherte Mitteilung."
+"Rechnung verfügbar","Ihre neue Rechnung ist abrufbar."
+"Wir benötigen Ihre Bestätigung","Bitte klicken Sie auf den Link."
+"Premium-Zugang aktivieren","Nutzen Sie jetzt Ihr kostenloses Upgrade."
+"Dringende Benachrichtigung","Ihre Aktion ist sofort erforderlich."
+"Konto wiederherstellen","Bitte Passwort zurücksetzen."
+"Gewinn freigegeben","Ihr Preis ist bereit zur Auszahlung."
+"Unbekannter Login erkannt","Prüfen Sie diese Anmeldung."
+"SMS-Service abläuft","Verlängern Sie jetzt Ihr Paket."
+"Gutschein verfügbar","Ihr Rabatt ist nur heute gültig."
+"Neue Zahlung eingegangen?","Bitte Transaktion bestätigen."
+"Steuerbescheid bereit","Jetzt herunterladen."
+"Zustellung ausgesetzt","Bitte Angaben prüfen."
+"Kreditlimit angehoben","Aktivieren Sie Ihr neues Limit."
+"Warnung: Datenleck","Überprüfen Sie Ihren Account."
+"Neue Geräteanmeldung","Sind Sie das? Jetzt bestätigen."
+"Überraschungsbonus!","Sichern Sie sich Ihren spontanen Bonus."
+"Sofortbestätigung nötig","Reagieren Sie innerhalb von 24 Stunden."
+"Karte abgelaufen","Bitte aktualisieren Sie Ihre Informationen."
+"Geschenk wartet","Nur ein letzter Klick fehlt."
+"Passwort läuft ab","Jetzt erneuern."
+"Aktion erforderlich","Ihre Daten stimmen nicht überein."
+"Bezahlen Sie jetzt","Überfällige Rechnung entdeckt."
+"Sicherheitsupdate fehlt","Bitte installieren Sie das neue Update."
+"Prämie verfügbar","Ihre Mitgliedschaft wurde belohnt."
+"Neue Voicemail","Nachricht jetzt anhören."
+"Verpassen Sie das nicht","Nur heute einmalige Aktion."
+"Online-Banking eingeschränkt","Bitte Identität bestätigen."
+"Zahlungsabgleich nötig","Ihre letzte Transaktion war unvollständig."
+"Rechnungserinnerung","Bitte begleichen Sie den offenen Betrag."
+"Aktivierungsfehler","Ihr Konto konnte nicht aktiviert werden."
+"Neue Freundschaftsanfrage","Jemand möchte Sie kennenlernen."
+"Krypto-Bonus","Starten Sie jetzt mit 25€ extra."
+"Kostenlose Teilnahme","Nur Email-Bestätigung erforderlich."
+"Konto läuft ab","Bitte Zugang erneuern."
+"Dringende Anfrage","Ihre Rückmeldung ist erforderlich."
+"Sie wurden ausgewählt","Exklusives Angebot für Sie."
+"Falsche Adresse","Bitte korrigieren, um die Lieferung zu ermöglichen."
+"Sicherheitsstufe erhöht","Jetzt erneut einloggen."
+"Neue Dokumente","Ihre Dateien stehen bereit."
+"Sie wurden belohnt","Bonuspunkte jetzt abrufen."
+"Neu: Premium-Zugang","Kostenlos testen."
+"Kartensperre droht","Bitte bestätigen Sie Ihre Identität."
+"Gewinnchance","Jetzt teilnehmen."
+"Sie verpassen etwas","Aktion endet bald."
+"Login fehlgeschlagen","Bitte Zugangsdaten prüfen."
+"Neue Zahlungsanforderung","Bitte Rechnung öffnen."
+"Daten werden gelöscht","Handeln Sie jetzt."
+"Kontoeinstellung zurücksetzen","Jetzt aktualisieren."
+"Unbekannte Transaktion","Bitte sofort prüfen."
+"Neue Lieferinformation","Bestellung aktualisiert."
+"Bestätigung erforderlich","Ihre Aktion ist notwendig."
+"Update nötig","Aktualisieren Sie Ihr Konto."
+"Zahlung erwartet","Bitte jetzt verifizieren."
+"Sofortige Reaktion gefordert","Ihre Sicherheit ist gefährdet."
+"Service kündigt sich ab","Erneuern Sie Ihr Abo."
+"Letzte Benachrichtigung","Danach verfällt Ihr Zugriff."
+"Sie haben Post","Neue Nachricht empfangen."
+"Rechnung überfällig","Zahlung ausstehend."
+"Neue Einstellungen verfügbar","Konfiguration erforderlich."
+"Nicht autorisierte Anfrage","Bitte melden."
+"Kostenlos testen","Zugang freischalten."
+"Bonus-Cashback verfügbar","Jetzt aktivieren."
+"Kreditüberprüfung nötig","Bestätigen Sie Ihre Angaben."
+"Profil unvollständig","Jetzt vervollständigen."
+"Neue Warnung","Ihr Konto ist gefährdet."
+"Neue Aktion für Mitglieder","Jetzt anmelden."
+"Fehlende Dokumente","Bitte nachreichen."
+"Kontodaten aktualisieren","Sie müssen bestätigen."
+"Zahlungsstörung","Bitte erneut versuchen."
+"Neue Gerätewarnung","Jemand hat sich eingeloggt."
+"Versand kann nicht erfolgen","Adresse korrigieren."
+"Überprüfung angefordert","Bitte sofort handeln."
+"Ungewöhnliche Zahlung","Bitte bestätigen."
+"Letzter Schritt fehlt","Jetzt abschließen."
+"Einmalige Gelegenheit","Nur heute verfügbar."
+"Sie wurden ausgewählt","Ihr Bonus wartet."
+"Service wird deaktiviert","Abo verlängern."
+"Ihre Anfrage ist eingegangen","Bitte bestätigen."
+"Rabatt aktiviert","Jetzt sparen."
+"Login erforderlich","Bitte anmelden."
+"Bestellvorgang unterbrochen","Bitte fortsetzen."
+"Neue Überweisung","Bitte prüfen."
+"Warnung: Kontoaktivität","Unbekannter Zugriff erkannt."
+"Sie wurden eingeladen","Zugang bestätigen."
+"Kontozugang eingeschränkt","Bitte melden Sie sich an, um Ihre Identität zu bestätigen."
+"Rechnung offen","Ihr Betrag ist noch nicht beglichen. Jetzt prüfen."
+"Sofortmaßnahme erforderlich","Wir benötigen Ihre Bestätigung."
+"Nur für kurze Zeit","Sichern Sie sich Ihren Sofortrabatt."
+"Überprüfung notwendig","Ihr Konto ist betroffen. Aktion erforderlich."
+"Sicherheits-Update","Installieren Sie das neue Sicherheitsmodul."
+"Gutschein aktiviert","Ihr Geschenk ist bereit."
+"Neue Anfrage","Bitte antworten Sie auf diese Nachricht."
+"Zahlung erfolgreich?","Bitte bestätigen Sie die Transaktion."
+"Warnung: verdächtige Aktivität","Überprüfung sofort nötig."
+"Kundenbonus","Ihre Treue wurde belohnt."
+"Zugangserneuerung notwendig","Ihr Konto läuft bald ab."
+"Kostenlose Überraschung","Jetzt öffnen."
+"Identität bestätigen","Bitte schließen Sie die Verifizierung ab."
+"Zahlungserinnerung","Ihre Rechnung ist überfällig."
+"Letzte Chance","Ihr Anspruch verfällt bald."
+"Neue Geräteaktivität","War das wirklich Sie?"
+"Rechnungsfehler","Bitte überprüfen Sie die Angaben."
+"Aktionscode verfügbar","Ihr Rabatt wartet."
+"Zahlung ausstehend","Bitte aktualisieren."
+"Kontoprüfung angefordert","Bitte sofort reagieren."
+"Sie wurden vorgemerkt","Bestätigen Sie Ihre Teilnahme."
+"Jetzt teilnehmen","Sichern Sie Ihre Gewinnchance."
+"Unbekannte Anmeldung","Bitte prüfen."
+"Sie erhalten Geld","Abholung jetzt freischalten."
+"Kostenlose Testphase","Zugang aktivieren."
+"Service-Bestätigung","Bitte klicken Sie auf den Link."
+"Unvollständige Lieferung","Bitte Adresse prüfen."
+"Wichtige Kontonachricht","Information abrufen."
+"Sie sind berechtigt","Bonus jetzt auslösen."
+"Neue Bestätigung","Ihre Eingabe wird benötigt."
+"Unbekannte Überweisung","Bitte sofort überprüfen."
+"Neue Nachricht im Postfach","Jetzt lesen."
+"Letzte Erinnerung","Ihre Daten fehlen."
+"Dringende Sicherheitswarnung","Sie müssen handeln."
+"Sofortige Bestätigung","Bitte abschließen."
+"Sie haben noch Guthaben","Jetzt einlösen."
+"Kontodaten prüfen","Angaben stimmen nicht überein."
+"Konto wird deaktiviert","Bitte reagieren."
+"Neue Zahlungsoption","Aktivieren Sie die Methode."
+"Bezahlung erforderlich","Bitte verifizieren."
+"Sie verpassen Geld","Bonus wartet auf Sie."
+"Sicherheitsfehler entdeckt","Bitte erneut anmelden."
+"Unbekannter Benutzer","Zugriff prüfen."
+"Zahlungsproblem","Bitte aktualisieren."
+"Rabatt nur heute gültig","Jetzt nutzen."
+"Kartenfehler","Bitte neue Daten eingeben."
+"Limit erhöht","Aktivieren Sie jetzt Ihr höheres Limit."
+"Neue Bestellinfo","Bitte prüfen."
+"Ungewöhnliche Anfrage","Sind Sie das?"
+"Passwort anpassen","Ihr Zugang läuft ab."
+"Sie haben ein Geschenk","Jetzt öffnen."
+"Aktualisierung abgeschlossen?","Bitte bestätigen."
+"Letzte Phase","Schließen Sie jetzt ab."
+"Konto gesperrt","Sofortige Überprüfung erforderlich."
+"Neue Identitätsanfrage","Bitte authentifizieren."
+"Virenschutz abgelaufen","Jetzt erneuern."
+"Neue Quittung","Dokument abrufen."
+"Sie erhalten einen Bonus","Bitte aktivieren."
+"Neue Bestätigung nötig","Handeln Sie sofort."
+"Unbekannte IP erkannt","Zugang sichern."
+"Ticket reserviert","Bitte Zahlung abschließen."
+"Bankdaten falsch","Bitte korrigieren."
+"Neue Aktion aktiv","Jetzt profitieren."
+"Schnell sein lohnt sich","Ihr Vorteil läuft ab."
+"Transaktion unvollständig","Bitte überprüfen."
+"E-Mail bestätigen","Jetzt aktivieren."
+"Sie haben Pakete","Zustellung freischalten."
+"Dokument fehlt","Bitte hochladen."
+"Bezahlstatus fehlerhaft","Bitte aktualisieren."
+"Zugang zum Konto verloren","Wiederherstellen."
+"Neue Info verfügbar","Bitte prüfen."
+"Konto bald inaktiv","Jetzt reaktivieren."
+"Sparangebot nur für Sie","Jetzt sichern."
+"Unbekannter Kaufversuch","Bitte prüfen."
+"Letzter Hinweis","Danach erfolgt Löschung."
+"App-Update notwendig","Version veraltet."
+"Neue Überprüfung","Bitte Angaben eingeben."
+"Verdächtige Zahlung","Bitte bestätigen."
+"Bonus verlängert","Nur kurze Zeit."
+"Lieferung blockiert","Adresse prüfen."
+"Zahlung ausstehend","Jetzt verifizieren."
+"Neue Rechnungsdaten","Bestätigen."
+"Anmeldeversuch fehlgeschlagen","Passwort neu setzen."
+"Guthaben verfällt","Jetzt sichern."
+"Zahlung wird abgelehnt","Bitte Karte prüfen."
+"Konto überprüfen","Ihre Daten wurden geändert."
+"Kundenhinweis","Bitte informieren."
+"Sie haben offenen Betrag","Jetzt begleichen."
+"Systemfehler","Bitte erneute Anmeldung."
+"Neue Teilnahmebestätigung","Bitte klicken."
+"Service abgelaufen","Jetzt erneuern."
+"Neue Freundschaftsempfehlung","Profil öffnen."
+"Bestellvorgang offen","Bitte abschließen."
+"Neue Banknachricht","Bitte prüfen."
+"Aufladung erforderlich","Guthaben niedrig."
+"Servicewarnung","Ihr Zugang ist eingeschränkt."
+"Neue Vertragsunterlagen","Dokument prüfen."
+"Zugriff bestätigt?","Bitte Rückmeldung."
+"Zahlungsdaten erforderlich","Bitte aktualisieren Sie Ihre Angaben."
+"Gewinn erfolgreich reserviert","Jetzt Anspruch bestätigen."
+"Identitätsprüfung ausstehend","Schließen Sie diesen Schritt ab."
+"Konto nicht bestätigt","Bitte erneut einloggen."
+"Unbekannte Adresse verwendet","War das wirklich Ihre Anfrage?"
+"Dringend verifizieren","Ihr Zugang ist eingeschränkt."
+"Bonus abholen","Ihr Geschenk wartet."
+"Systemmeldung","Wir konnten Ihre Zahlung nicht verarbeiten."
+"Rabatt verfügbar","Sofort einlösen."
+"Neue Zahlungswarnung","Bitte prüfen."
+"Unvollständige Registrierung","Füllen Sie das Formular aus."
+"Sie gehören zu den Auserwählten","Aktivieren Sie Ihre Chance."
+"Neue Kontoaktion","Jetzt reagieren."
+"Sicherheitsangriff blockiert","Bitte Passwort ändern."
+"Neue Paketinfo","Zustellung prüfen."
+"Geschenkkarte aktiviert","Jetzt verwenden."
+"Kontozugriff geändert","Bitte bestätigen."
+"Zahlungsvorgang abgebrochen","Erneut versuchen."
+"Neue Anforderung","Bitte bestätigen Sie Ihre Wahl."
+"Bestellstatus offen","Jetzt ansehen."
+"Gerätewechsel erkannt","War das wirklich Ihre Anmeldung?"
+"Sicherheitsüberprüfung aktiv","Bitte Eingaben prüfen."
+"Adresse fehlerhaft","Bitte aktualisieren."
+"Neues Dokument eingetroffen","Jetzt herunterladen."
+"Kostenfreie Verlängerung","Bitte aktivieren."
+"Warnung vor Missbrauch","Bitte Konto schützen."
+"Neue Richtlinien","Bitte zustimmen."
+"Unvollständige Angaben","Bitte Formular erneut ausfüllen."
+"Einmalige Chance","Jetzt nutzen."
+"Transaktion fehlgeschlagen","Überprüfung empfohlen."
+"Unbekannte Telefonnummer","Bitte bestätigen."
+"Neue Zahlungsaufforderung","Bitte sofort reagieren."
+"Limit fast erreicht","Erhöhen Sie jetzt."
+"Kontenabgleich nötig","Bitte Ausweis nachreichen."
+"Danke für Ihre Teilnahme","Jetzt Bonus abrufen."
+"Systemstatus kritisch","Bitte schnell handeln."
+"Neue Freundesanfrage","Jetzt ansehen."
+"Neue Nachricht wartet","Bitte Postfach öffnen."
+"Sie haben ein neues Angebot","Nur kurze Zeit."
+"Zugang ist bald ungültig","Jetzt verlängern."
+"Wichtige Aktualisierung","Bitte Informationen prüfen."
+"Dokument nicht lesbar","Neu einreichen."
+"Kontrolle fehlgeschlagen","Bitte erneut versuchen."
+"Neue Überprüfung angefordert","Bitte Angaben bestätigen."
+"Kreditangebot verfügbar","Jetzt prüfen."
+"Kartenverifizierung notwendig","Bitte aktivieren."
+"Sie wurden ausgewählt","Ihre Chance sichern."
+"Neue Sicherungskopie","Bitte herunterladen."
+"Verdächtiger Log-in","Zugriff sperren?"
+"Systemwartung erforderlich","Bitte wieder anmelden."
+"Bonuspunkte gutgeschrieben","Jetzt einlösen."
+"Paket konnte nicht zugestellt werden","Adresse korrigieren."
+"Letzte Zahlungsaufforderung","Bitte ausgleichen."
+"Zugang bald blockiert","Bitte auf „Bestätigen“ klicken."
+"Rechnungsdetails aktualisieren","Bitte prüfen."
+"Sie haben offene Beträge","Jetzt begleichen."
+"Zustimmung notwendig","Bitte bestätigen."
+"Neue Lieferung unterwegs","Details anzeigen."
+"Begrenzte Teilnahmeplätze","Jetzt reservieren."
+"Kontoerstellung unvollständig","Bitte abschließen."
+"Account wurde markiert","Sicherheitsprüfung nötig."
+"Neue Passwortanforderung","Bitte eingeben."
+"Zahlungsquelle ungültig","Jetzt ersetzen."
+"Online-ID erforderlich","Bitte bereitstellen."
+"Neue Auszahlung möglich","Jetzt registrieren."
+"Daten stimmen nicht überein","Bitte aktualisieren."
+"Paket wartet im Verteilzentrum","Jetzt bestätigen."
+"Neue Bestätigungsmail","Klicken Sie auf den Link."
+"Sie wurden eingeloggt","War das wirklich Ihre Aktion?"
+"Verlängerung erfolgreich","Bitte prüfen."
+"Neue Anfrage eingegangen","Antwort benötigt."
+"Versandprobleme erkannt","Adresse prüfen."
+"Bankkonto nicht erreichbar","Bitte neu verknüpfen."
+"Neue Werbeaktion","Nur heute gültig."
+"Kontoregistrierung abgeschlossen?","Bitte bestätigen."
+"Bezahlvorgang überprüfen","Daten falsch."
+"Neue Benachrichtigung","Jetzt öffnen."
+"Kontofreischaltung nötig","Bitte bestätigen."
+"Überprüfung Ihres Profils","Daten fehlen."
+"Rechnungsstellung aktualisiert","Bitte einsehen."
+"Abonnement läuft ab","Jetzt verlängern."
+"Identität nicht bestätigt","Bitte nachreichen."
+"Konto wiederherstellen","Schritt erforderlich."
+"Neue Kreditoption","Jetzt beantragen."
+"Unbekannter Standort erkannt","Bitte prüfen."
+"Aktivierungslink abgelaufen","Neuen Link anfordern."
+"Neue Sicherheitsanforderung","Bitte authentifizieren."
+"Unvollständige Zahlung","Bitte verifizieren."
+"Sie erhalten 50 % Rabatt","Nur begrenzte Zeit."
+"Neue Datenschutzinfo","Bitte akzeptieren."
+"Verdächtige Anfrage blockiert","Zugriff prüfen."
+"Kontostatus geändert","Jetzt ansehen."
+"Überlieferungsfehler","Bitte erneuten Versuch starten."
+"Sie haben einen Gutschein","Jetzt einlösbar."
+"Transaktionswarnung","Bitte bestätigen."
+"Neue Richtlinien aktiv","Zustimmung erforderlich."
+"Paket im Depot","Bitte Lieferoption wählen."
+"Monatliche Übersicht bereit","Jetzt ansehen."
+"Neue Quittung verfügbar","Herunterladen."
+"System fordert Bestätigung","Bitte fortfahren."
+"Paket konnte nicht zugestellt werden","Ihr Paket konnte heute nicht zugestellt werden, da keine gültige Hausnummer hinterlegt ist. Bitte bestätigen Sie innerhalb von 24 Stunden Ihre Adresse über den folgenden Link, um eine automatische Rücksendung zu vermeiden. Sobald Sie Ihre Daten aktualisiert haben, wird die Zustellung erneut eingeplant."
+"Dringende Kontoüberprüfung erforderlich","Bei einer Routineprüfung Ihres Kontos wurden Unregelmäßigkeiten festgestellt. Um Einschränkungen zu vermeiden, müssen Sie Ihre Identität bestätigen. Verwenden Sie das beigefügte Formular, um Ihre Daten zu aktualisieren. Die Überprüfung dauert nur wenige Minuten."
+"Sie haben Anspruch auf eine Erstattung","Unsere Systeme zeigen, dass Sie aufgrund einer Systemkorrektur Anspruch auf eine Rückerstattung haben. Um Ihre Zahlung zu erhalten, müssen Sie lediglich Ihr bevorzugtes Auszahlungskonto auswählen. Die Bearbeitung erfolgt normalerweise innerhalb von zwei Werktagen."
+"Gewinnbenachrichtigung – jetzt bestätigen","Herzlichen Glückwunsch! Sie wurden für einen exklusiven Bonus ausgewählt. Um Ihren Preis freizuschalten, klicken Sie auf den untenstehenden Link und bestätigen Sie Ihre Teilnahme. Das Angebot ist für 48 Stunden reserviert."
+"Neue Anmeldung von unbekanntem Gerät","Wir haben eine Anmeldung bei Ihrem Konto von einem unbekannten Gerät registriert. Falls dies nicht von Ihnen stammt, müssen Sie sofort eine Sicherheitsprüfung durchführen. Folgen Sie dem Link, um den Zugriff zu schützen und das Passwort zurückzusetzen."
+"Ihre Kreditkarte wurde vorübergehend gesperrt","Aufgrund einer fehlgeschlagenen Transaktion wurde Ihre Karte automatisch gesperrt. Zur Entsperrung müssen Sie Ihre Identität bestätigen und die letzten Transaktionen prüfen. Ohne Bestätigung bleibt die Karte deaktiviert."
+"Letzte Erinnerung: Daten aktualisieren","Wir konnten Sie mehrfach nicht erreichen. Ihre gespeicherten Informationen sind veraltet und müssen überprüft werden. Bitte öffnen Sie die bereitgestellte Seite und bestätigen Sie Ihre Daten, um Ihren Zugang nicht zu verlieren."
+"Neue Nachricht in Ihrem Kundenportal","Sie haben eine neue Nachricht in Ihrem Kundenbereich. Aufgrund aktualisierter Datenschutzrichtlinien können wir diese nicht direkt per E-Mail übermitteln. Melden Sie sich an, um die vollständige Nachricht abzurufen."
+"Überprüfung ausstehender Zahlung","Für Ihre letzte Bestellung liegt noch eine offene Zahlung vor. Um Mahngebühren zu vermeiden, können Sie den Betrag bequem über unser Onlineformular begleichen. Bitte beachten Sie, dass die Zahlung innerhalb von 48 Stunden eingehen muss."
+"Bestellung erfolgreich registriert","Ihre Bestellung wurde erfolgreich erfasst, enthält jedoch unvollständige Lieferdetails. Um eine pünktliche Zustellung zu gewährleisten, vervollständigen Sie bitte Ihre Angaben. Nach der Bestätigung wird Ihre Lieferung sofort freigegeben."
+"Gratis-Testmonat aktiviert","Ihr kostenloser Testzeitraum wurde gestartet. Um den Service über das Testende hinaus nutzen zu können, müssen Sie Ihre Zahlungsmethode hinterlegen. Ohne eine rechtzeitige Bestätigung wird Ihr Konto automatisch deaktiviert."
+"Neue Sicherheitswarnung","In Ihrem Konto gab es kürzlich mehrere fehlgeschlagene Anmeldeversuche. Zum Schutz Ihrer Daten empfehlen wir, sofort eine Identitätsprüfung durchzuführen. Verwenden Sie dazu den folgenden Zugangscode und bestätigen Sie die Anfrage."
+"E-Mail-Zustellung fehlgeschlagen","Einige Ihrer eingehenden Nachrichten konnten nicht zugestellt werden. Dies liegt an veralteten Sicherheitseinstellungen. Aktualisieren Sie Ihre Konfiguration mit dem beigefügten Update-Link, um zukünftige Probleme zu vermeiden."
+"Sonderaktion – nur heute gültig","Sie erhalten exklusiv heute Zugang zu stark reduzierten Angeboten. Um Ihre Auswahl zu sichern, melden Sie sich über den untenstehenden Link an. Dieses Angebot wird nach Ablauf der Aktion nicht erneut verfügbar sein."
+"Unbekannte IP erkannt","Wir haben eine Anmeldung über eine unbekannte IP-Adresse festgestellt. Aus Sicherheitsgründen müssen Sie die Aktivität bestätigen. Falls Sie dies nicht waren, können Sie Ihr Konto über die beigefügte Seite sofort sperren."
+"Dokumentenbestätigung erforderlich","Sie haben ein neues Dokument erhalten, das zur Fortführung Ihres Kontos bestätigt werden muss. Bitte prüfen Sie die Datei in Ihrem Portal und bestätigen Sie den Erhalt, um Ihren Zugang nicht zu unterbrechen."
+"Rückrufservice steht bereit","Sie haben vor Kurzem eine Anfrage gestellt. Damit wir Sie erreichen können, benötigen wir eine Bestätigung Ihrer Telefonnummer. Füllen Sie das Formular aus, damit ein Mitarbeiter Sie zurückrufen kann."
+"Rechnung wurde aktualisiert","Ihre aktuelle Rechnung wurde aufgrund einer Anpassung verändert. Um die neuen Informationen einzusehen, öffnen Sie den Link in dieser Nachricht. Für Fragen stehen wir Ihnen gern zur Verfügung."
+"Verifizierung der Lieferadresse","Ihre zuletzt angegebene Lieferadresse konnte nicht automatisch bestätigt werden. Bitte überprüfen Sie Ihre Angaben, damit Ihre Bestellung ohne Verzögerung verschickt werden kann."
+"Bestätigung Ihres Bonusguthabens","Ihr Bonus wurde freigeschaltet, wartet jedoch noch auf Ihre Aktivierung. Folgen Sie dem Aktivierungslink, um das Guthaben zu nutzen. Die Gültigkeit beträgt 72 Stunden."
+"Problem mit Zahlungsquelle","Ihre hinterlegte Zahlungsquelle konnte nicht belastet werden. Aktualisieren Sie bitte Ihre Informationen, damit Ihr Abonnement nicht unterbrochen wird."
+"Neue Freundschaftsanfrage","Jemand möchte sich mit Ihnen verbinden! Um Ihr Profil zu bestätigen oder abzulehnen, öffnen Sie die Anfrage über den untenstehenden Button."
+"Rücksendung vorbereitet","Ihre Rücksendung wurde registriert, allerdings fehlen wichtige Informationen. Reichen Sie die Details nach, um den Vorgang abzuschließen."
+"Warnung vor möglichem Missbrauch","Wir haben Auffälligkeiten auf Ihrem Konto bemerkt. Um Schaden zu vermeiden, führen Sie bitte sofort eine Sicherheitsprüfung durch."
+"Einladung zum exklusiven Zugang","Sie wurden ausgewählt, um an einem geschlossenen Programm teilzunehmen. Aktivieren Sie Ihren Zugang über den bereitgestellten Link."
+"Abonnement endet bald","Ihr aktuelles Abonnement läuft bald aus. Verlängern Sie es jetzt, um den Dienst ohne Unterbrechung weiter zu nutzen."
+"Zahlungsbestätigung erforderlich","Wir haben eine Zahlung erhalten, die nicht eindeutig zugeordnet werden kann. Bitte bestätigen Sie die Details, um Verzögerungen zu vermeiden."
+"Letzte Frist zur Identitätsprüfung","Ihre Identitätsbestätigung ist überfällig. Ohne Überprüfung müssen wir Ihr Konto vorübergehend deaktivieren."
+"Neue Geräteanmeldung","Ihr Konto wurde auf einem neuen Gerät verwendet. Wenn Sie das nicht waren, setzen Sie Ihr Passwort sofort zurück."
+"Verlängern Sie Ihre Mitgliedschaft","Ihr exklusiver Zugriff läuft aus. Um weiterhin Vorteile zu erhalten, erneuern Sie Ihre Mitgliedschaft über den beigefügten Link."
+"Lieferung in Vorbereitung","Ihre Sendung wird vorbereitet, jedoch benötigen wir noch eine Lieferbestätigung. Bitte prüfen Sie die Daten in Ihrem Profil."
+"Unvollständige Registrierung","Ihre Registrierung wurde begonnen, aber nicht abgeschlossen. Folgen Sie dem Link, um den Vorgang fortzuführen."
+"Erhöhen Sie Ihr verfügbares Limit","Aufgrund guter Kontohistorie können Sie Ihr Kreditlimit erhöhen. Wählen Sie Ihre gewünschte Stufe im Onlineportal."
+"Zahlungsverzug festgestellt","Es liegen offene Posten vor. Bitte begleichen Sie Ihre Zahlung, um weitere Maßnahmen zu vermeiden."
+"Neue Chat-Nachricht","Sie haben eine neue Nachricht. Melden Sie sich an, um den Chat zu öffnen und zu antworten."
+"Sonderrabatt für kurze Zeit","Sichern Sie sich jetzt Ihren zeitlich begrenzten Preisnachlass. Öffnen Sie das Angebot, bevor es abläuft."
+"Kontozugang wird eingeschränkt","Ihre Daten müssen aktualisiert werden, um den Zugriff beizubehalten. Bitte führen Sie die Bestätigung zeitnah durch."
+"Ihre Teilnahme wurde registriert","Sie haben erfolgreich an der Aktion teilgenommen. Um Ihren Vorteil zu aktivieren, benötigen wir eine Bestätigung."
+"Unstimmigkeit bei Zahlung","Eine Zahlung stimmt nicht mit dem hinterlegten Konto überein. Bitte prüfen Sie die Information und bestätigen Sie sie erneut."
+"Dokument bereit zur Unterschrift","Ein neues Dokument wartet auf Ihre elektronische Signatur. Öffnen Sie den Link, um zu unterzeichnen."
+"Aktivierung erforderlich","Ihr Konto ist fast bereit. Bestätigen Sie Ihre E-Mail-Adresse, um den Vorgang abzuschließen."
+"Warnung: Passwort bald abgelaufen","Ihr Passwort läuft bald ab. Bitte setzen Sie ein neues, um Zugriff zu behalten."
+"Neue Serviceanfrage","Wir haben Ihre Anfrage erhalten. Um sie abzuschließen, benötigen wir eine Rückmeldung von Ihnen."
+"Status Ihrer Sendung aktualisiert","Ihre Sendung wurde aktualisiert. Prüfen Sie die Details im Sendungsportal."
+"Bonusangebot verfügbar","Es wurde ein neues Bonuspaket freigeschaltet. Aktivieren Sie es innerhalb der nächsten 24 Stunden."
+"Systemupdate notwendig","Ein wichtiges Update steht bereit. Laden Sie die aktualisierte Version herunter, um Fehler zu vermeiden."
+"Überprüfung des Zahlungsverhaltens","Wir benötigen zusätzliche Informationen zu Ihrer letzten Transaktion."
+"Paket im Zustellzentrum","Ihr Paket wartet auf die Freigabe. Bestätigen Sie Ihre Identität, um die Lieferung fortzusetzen."
+"Neue Überweisung eingegangen","Zur Sicherheitsprüfung müssen Sie diese Transaktion bestätigen."
+"Mitgliedsvorteile verfügbar","Ihr Konto ist qualifiziert für zusätzliche Vorteile. Aktivieren Sie sie jetzt."
+"Adresse nicht gültig","Die angegebene Adresse wurde abgelehnt. Bitte korrigieren Sie sie."
+"Neue Benachrichtigung im Portal","Melden Sie sich an, um den vollständigen Inhalt einzusehen."
+"Überfällige Dokumente","Bitte laden Sie fehlende Dokumente hoch, um Verzögerungen zu vermeiden."
+"Bestätigen Sie Ihre Anmeldung","Wir haben vor Kurzem eine Anmeldung mit Ihrer E-Mail registriert. Um den Vorgang abzuschließen, müssen Sie Ihre Adresse bestätigen. Nutzen Sie dazu bitte den untenstehenden Link. Ohne Bestätigung wird der Antrag automatisch gelöscht."
+"Automatische Abbuchung fehlgeschlagen","Leider konnte Ihre letzte Abbuchung nicht verarbeitet werden. Bitte aktualisieren Sie Ihre Zahlungsinformationen, um eine Unterbrechung Ihres Services zu vermeiden."
+"Neue Zahlungsoption verfügbar","Sie können jetzt eine schnellere Zahlungsart für Ihr Konto aktivieren. Öffnen Sie das Zahlungscenter, wählen Sie die bevorzugte Methode und speichern Sie die Änderung."
+"Konto vorübergehend eingeschränkt","Ihr Zugang wurde vorsorglich eingeschränkt, da ungewöhnliche Aktivitäten festgestellt wurden. Um den vollen Zugriff wiederherzustellen, ist eine Identitätsprüfung erforderlich."
+"Unbekannte Transaktion erkannt","Wir haben eine Transaktion entdeckt, die möglicherweise nicht von Ihnen stammt. Prüfen Sie die Details und bestätigen oder widersprechen Sie der Buchung."
+"Sie wurden ausgewählt!","Auf Grundlage Ihrer letzten Aktivitäten wurden Sie für ein exklusives Angebot freigeschaltet. Aktivieren Sie Ihren Zugang, um die Vorteile zu nutzen."
+"Abonnement bald beendet","Ihr Abonnement läuft in Kürze aus. Verlängern Sie es rechtzeitig, um weiterhin alle Funktionen nutzen zu können."
+"Neue Versandbenachrichtigung","Ein Paket von Ihnen ist auf dem Weg, jedoch sind die Lieferinformationen unvollständig. Bitte aktualisieren Sie die Adresse, um Verzögerungen zu vermeiden."
+"Letzte Chance zur Teilnahme","Sie wurden eingeladen, an einem zeitlich begrenzten Programm teilzunehmen. Das Angebot läuft innerhalb der nächsten 24 Stunden ab."
+"Dokument muss bestätigt werden","Ein wichtiges Dokument steht zur Überprüfung bereit. Melden Sie sich im Portal an, um es einzusehen und zu bestätigen."
+"Rechnung überfällig","Wir erinnern Sie daran, dass Ihre Rechnung überfällig ist. Bitte begleichen Sie den ausstehenden Betrag, um zusätzliche Gebühren zu vermeiden."
+"Zugang zum Bonusprogramm","Sie haben nun Zugriff auf unser Bonusportal. Aktivieren Sie Ihren Account, um exklusive Vorteile zu erhalten."
+"Datenabgleich erforderlich","Ein Datenfehler wurde festgestellt. Um den Service ohne Unterbrechung fortzuführen, müssen Sie Ihre Angaben prüfen und ggf. aktualisieren."
+"Warnung: verdächtige E-Mail-Aktivität","Wir haben ungewöhnliche E-Mail-Aktivitäten festgestellt. Führen Sie eine Sicherheitsüberprüfung durch, um Ihr Konto zu schützen."
+"Neue Nachricht bereit","Sie haben eine neue Nachricht in Ihrem Benutzerkonto erhalten. Aufgrund von Sicherheitseinstellungen kann sie nur online eingesehen werden."
+"Vertragsänderung verfügbar","Es stehen aktualisierte Vertragsbedingungen bereit. Bitte prüfen und bestätigen Sie die Änderungen, um Ihren Zugang weiter zu nutzen."
+"Rabatt nur heute verfügbar","Sichern Sie sich heute exklusive Rabatte. Das Angebot ist streng limitiert und steht nur kurz zur Verfügung."
+"Kontoüberprüfung läuft ab","Ihre letzte Identitätsprüfung ist abgelaufen. Aktualisieren Sie Ihre Informationen, um Einschränkungen zu vermeiden."
+"Servicebestätigung notwendig","Ihr Dienst kann erst fortgesetzt werden, wenn Sie die letzte Anfrage bestätigen. Nutzen Sie den beigefügten Link, um fortzufahren."
+"Bonuspunktestand aktualisiert","Ihre Bonuspunkte wurden aktualisiert und stehen nun zur Einlösung bereit. Besuchen Sie das Portal, um Ihre Auswahl zu treffen."
+"Adresse konnte nicht bestätigt werden","Die verknüpfte Adresse war ungültig. Bitte überprüfen Sie Ihre Angaben und korrigieren Sie sie."
+"Rückmeldung erforderlich","Wir benötigen Ihre Rückmeldung, um den Vorgang abschließen zu können. Bitte antworten Sie über das Formular."
+"Serviceoptimierung verfügbar","Ihr Konto ist für eine optimierte Version des Dienstes qualifiziert. Aktivieren Sie das Upgrade, um alle Vorteile zu nutzen."
+"Sicherheitscode angefordert","Ein Sicherheitscode wurde an Ihre E-Mail gesendet. Wenn Sie die Anfrage nicht gestellt haben, sollten Sie Ihr Passwort umgehend ändern."
+"Wichtige Aktualisierung verfügbar","Eine wesentliche Aktualisierung steht bereit. Installieren Sie das Update, um volle Funktionalität zu gewährleisten."
+"Neue AGB bestätigen","Wir haben unsere Nutzungsbedingungen aktualisiert. Bitte prüfen und akzeptieren Sie sie, um weiterhin Zugang zu behalten."
+"Anmeldeversuch blockiert","Ein Login-Versuch wurde blockiert. Prüfen Sie, ob es sich um Sie handelt, und setzen Sie gegebenenfalls Ihr Passwort zurück."
+"Einladung zur Teilnahme","Sie können an einer neuen Sonderaktion teilnehmen. Aktivieren Sie Ihre Einladung über den beigefügten Link."
+"Verzögerte Lieferung","Ihre Lieferung verzögert sich, da eine Bestätigung der Versandinformationen fehlt. Bitte prüfen Sie Ihre Angaben."
+"Zahlungsdetails fehlen","Zum Abschluss der Bestellung benötigen wir Ihre Zahlungsinformationen. Reichen Sie diese bitte über das Portal ein."
+"Bestellung fast abgeschlossen","Die Bestellung ist vorbereitet, jedoch müssen Sie noch einige Angaben vervollständigen."
+"Sicherheitsanforderung nicht erfüllt","Ihr Konto erfüllt nicht mehr die neuesten Sicherheitsstandards. Bitte führen Sie ein Update durch."
+"Neue Überprüfung erforderlich","Wir müssen Ihre Daten erneut prüfen, um die Vorschriften einzuhalten. Bitte bestätigen Sie die erforderlichen Informationen."
+"Mitgliedschaft ausstehend","Ihre Mitgliedschaft wurde registriert, benötigt aber noch Ihre endgültige Bestätigung."
+"Rechnung aktualisiert","Ihre Rechnung wurde angepasst. Die Details können Sie im Kundenportal einsehen."
+"Sendungsverfolgung verfügbar","Sie können jetzt Ihre Sendung online verfolgen. Klicken Sie auf den Link, um die aktuellen Informationen aufzurufen."
+"Vertrag läuft aus","Ihr Vertrag endet in Kürze. Um Störungen zu vermeiden, empfehlen wir eine Verlängerung."
+"Fehlerhafte Transaktion","Eine Transaktion konnte nicht verarbeitet werden. Bitte überprüfen Sie Ihre Angaben und starten Sie den Vorgang erneut."
+"Neue Geräteaktivität","Es wurde ein neues Gerät mit Ihrem Konto verbunden. Wenn Sie dies nicht waren, sollten Sie den Zugriff sperren."
+"Datenübertragung fehlerhaft","Bei der Synchronisierung ist ein Fehler aufgetreten. Führen Sie den Prozess erneut durch."
+"Rückerstattung verfügbar","Sie haben Anspruch auf eine Rückerstattung. Reichen Sie Ihre Bankdaten zur Bearbeitung ein."
+"Service bald deaktiviert","Ihr Service wird bald deaktiviert, wenn Sie nicht bestätigen, dass Sie ihn weiterhin nutzen möchten."
+"Bonusaktion bestätigt","Ihre Teilnahme an der Bonusaktion wurde aufgezeichnet. Aktivieren Sie Ihren Vorteil über den Link."
+"Paket wartet auf Bestätigung","Ein Paket ist eingetroffen, kann jedoch erst nach einer Adressprüfung zugestellt werden."
+"Neue Sicherheitsrichtlinien","Wir haben unsere Sicherheitsrichtlinien angepasst. Lesen und bestätigen Sie diese, um Ihr Konto zu behalten."
+"Letzte Warnung vor Sperrung","Ihr Konto wird gesperrt, wenn Sie Ihre Daten nicht aktualisieren. Letzte Frist: 24 Stunden."
+"Verifizierung unvollständig","Sie haben die Verifizierung begonnen, aber nicht abgeschlossen. Setzen Sie den Vorgang jetzt fort."
+"Einladung zum Kundenbonus","Sie haben Zugang zu einem Bonusprogramm. Um den Bonus zu nutzen, müssen Sie ihn aktivieren."
+"Probleme mit Zahlungsmethode","Ihre Zahlungsmethode konnte nicht validiert werden. Aktualisieren Sie Ihre Angaben."
+"Dokument fehlt","Für Ihren Antrag fehlt ein benötigtes Dokument. Bitte laden Sie es schnellstmöglich hoch."
+"Untersuchen Sie ungewöhnliche Aktivitäten","Wir haben mögliche Sicherheitsbedrohungen erkannt. Eine Überprüfung ist erforderlich."
+"Bestellstatus geändert","Ihr Bestellstatus wurde aktualisiert. Prüfen Sie ihn im Portal."
+"Kontoschutz erhöhen","Ihr Konto kann durch zusätzliche Maßnahmen geschützt werden. Aktivieren Sie die empfohlenen Optionen."
+"Unbekannte Änderung entdeckt","Es wurde eine Kontoänderung durchgeführt, die nicht zugeordnet werden kann. Bestätigen Sie diese Änderung."
+"Zustellhinweis aktualisiert","Ihre Lieferung wurde neu terminiert. Prüfen Sie den Status online."
+"Vorteile laufen ab","Einige Ihrer Vorteile laufen bald ab. Nutzen Sie sie rechtzeitig."
+"Neue Empfehlung verfügbar","In Ihrem Kundenbereich wurde eine neue Empfehlung hinterlegt. Rufen Sie sie ab."
+"Sicherheitsupgrade empfohlen","Ein Sicherheitsupgrade steht bereit. Installieren Sie es, um Risiken zu minimieren."
+"Überfällige Rückmeldung","Wir warten weiterhin auf Ihre Rückmeldung. Ohne diese können wir den Vorgang nicht abschließen."
+"Bestätigung einer Anfrage nötig","Eine Anfrage von Ihnen benötigt Ihre Bestätigung, bevor sie weiterbearbeitet wird."
+"Neue Transaktionsbestätigung","Bitte bestätigen Sie die letzte Transaktion, um sie abzuschließen."
+"Status Ihrer Mitgliedschaft","Ihre Mitgliedschaft wurde angepasst. Prüfen Sie die Details online."
+"Identitätsprüfung fehlgeschlagen","Ihre letzte Identitätsprüfung war nicht erfolgreich. Wiederholen Sie den Vorgang."
+"Rabatt wurde freigeschaltet","Ein Rabatt wurde für Sie aktiviert. Nutzen Sie ihn, bevor er abläuft."
+"Service erfordert Update","Der Dienst kann erst nach einem Systemupdate verwendet werden."
+"Neue Rückfrage des Supports","Unser Support hat Rückfragen zu Ihrer Anfrage. Antworten Sie im Portal."
+"Kontrolle von Dokumenten nötig","Zur Einhaltung gesetzlicher Vorgaben müssen Sie bestimmte Dokumente überprüfen."
+"Limit fast erreicht","Ihr Nutzungs-Limit ist fast erreicht. Passen Sie Ihre Einstellungen an, um Unterbrechungen zu vermeiden."
+"Letzte Chance zur Aktivierung","Ihr Zugang wartet noch auf Aktivierung. Danach verfällt er."
+"Rechnung bereit zum Download","Ihre aktuelle Rechnung steht bereit und kann heruntergeladen werden."
+"Neue Verbindungsanfrage","Jemand möchte sich mit Ihnen verknüpfen. Prüfen Sie die Anfrage im Portal."
+"Daten nicht lesbar","Ein Teil Ihrer Daten ist beschädigt. Wiederholen Sie die Eingabe."
+"Zahlung wurde angehalten","Eine Zahlung wurde vorübergehend angehalten. Überprüfen Sie die Angaben."
+"Upgrade verfügbar","Sie können auf eine erweiterte Version upgraden. Aktivieren Sie das Upgrade jetzt."
+"Sendung nicht zugestellt","Ihre Sendung konnte nicht zugestellt werden. Bestätigen Sie Ihre Adresse."
+"Fehler bei Kontoabfrage","Ein Fehler ist aufgetreten. Führen Sie die Abfrage erneut aus."
+"Neue Teilnahme bestätigt","Ihre Teilnahme wurde bestätigt. Weitere Schritte finden Sie im Portal."
+"Unbekannte Abbuchung","Wir haben eine Abbuchung festgestellt, die nicht zugeordnet werden kann. Prüfen Sie die Details."
+"Dokument konnte nicht verarbeitet werden","Bitte laden Sie das Dokument erneut hoch."
+"Vertragsverlängerung möglich","Ihr Vertrag kann verlängert werden. Prüfen Sie die Konditionen."
+"Paket muss freigegeben werden","Die Lieferung wurde angehalten und muss von Ihnen freigegeben werden."
+"Letzte Autorisierung benötigt","Um Ihren Zugang weiter zu nutzen, müssen Sie die ausstehende Autorisierung abschließen. Ohne Ihre Bestätigung wird der Zugriff automatisch beendet."
+"Adressüberprüfung ausstehend","Ein Paket wartet auf die Zustellung, doch Ihre Adressdaten konnten nicht bestätigt werden. Bitte aktualisieren Sie diese im Kundenbereich."
+"Neue Kontoaktivität erkannt","Wir haben eine Kontoaktivität festgestellt, die möglicherweise nicht von Ihnen stammt. Überprüfen Sie die Details und bestätigen Sie den Vorgang."
+"Service bald erneuert","Ihr Service wird automatisch verlängert, sofern Sie der Änderung nicht widersprechen. Prüfen Sie die neuen Konditionen."
+"Identitätsabgleich erforderlich","Für die Nutzung bestimmter Funktionen ist ein Identitätsabgleich notwendig. Reichen Sie die fehlenden Daten ein."
+"Zahlungsfehler festgestellt","Ihre letzte Zahlung wurde nicht erfolgreich durchgeführt. Aktualisieren Sie Ihre Informationen, um Unterbrechungen zu vermeiden."
+"Dokument wartet auf Ihre Prüfung","Ein neues Dokument wurde Ihrem Konto hinzugefügt. Bitte lesen und prüfen Sie es, bevor es verarbeitet werden kann."
+"Unvollständige Registrierung","Ihre Registrierung wurde begonnen, aber nicht abgeschlossen. Setzen Sie den Vorgang über den bereitgestellten Link fort."
+"Neue Empfehlungen verfügbar","Für Ihr Profil sind neue Empfehlungen verfügbar. Melden Sie sich an, um alle Details zu sehen."
+"Warnung: Eingeschränkter Zugriff","Einige Funktionen wurden deaktiviert, bis Sie die ausstehenden Aufgaben erledigen. Schließen Sie diese ab, um vollständigen Zugriff zu erhalten."
+"Rückerstattungsantrag eingegangen","Wir haben Ihren Antrag auf Rückerstattung erhalten. Zur Bearbeitung benötigen wir noch einige Angaben."
+"Versandinformationen aktualisieren","Die Versanddaten einer Bestellung sind unvollständig. Bitte korrigieren Sie sie zeitnah."
+"Prämienstatus geändert","Ihr Status im Prämiensystem wurde angepasst. Neue Vorteile stehen zur Verfügung."
+"Einladung zum Bonusprogramm","Sie wurden für ein Bonusprogramm freigeschaltet. Aktivieren Sie Ihr Profil, um teilzunehmen."
+"Neue Sicherheitseinstellung erforderlich","Ihr Konto benötigt zusätzliche Sicherheitsmaßnahmen. Aktualisieren Sie Ihre Einstellungen."
+"E-Mail-Bestätigung notwendig","Bitte bestätigen Sie Ihre E-Mail-Adresse, um den Vorgang abzuschließen."
+"Verifizierung abgelaufen","Ihre letzte Verifizierung ist ungültig geworden. Wiederholen Sie diesen Schritt."
+"Neue Zahlweise verfügbar","Eine neue Zahlmethode kann für Ihr Konto aktiviert werden. Prüfen Sie die verfügbaren Optionen."
+"Vertragsinformationen aktualisiert","Aktualisierte Vertragsunterlagen liegen für Sie bereit. Prüfen Sie diese in Ihrem Konto."
+"Sendung liegt zur Abholung bereit","Ihre Sendung kann abgeholt werden. Die Freigabe ist jedoch noch nicht erfolgt."
+"Kontoinformationen unvollständig","Einige Kontodaten fehlen oder sind fehlerhaft. Bitte prüfen Sie Ihre Angaben."
+"Serviceunterbrechung droht","Wenn Sie die ausstehende Zahlung nicht leisten, wird der Service vorübergehend deaktiviert."
+"Gutschrift bereit zur Einlösung","Ihre Gutschrift wurde Ihrem Konto hinzugefügt und kann jetzt eingelöst werden."
+"Neue Einmalbestätigung notwendig","Zur Nutzung des Dienstes müssen Sie eine einmalige Bestätigung durchführen."
+"Nutzungsgrenze erreicht","Sie haben die maximale Anzahl an Vorgängen erreicht. Prüfen Sie mögliche Upgrades."
+"Überprüfung einer Anfrage erforderlich","Eine frühere Anfrage muss von Ihnen bestätigt werden, bevor wir fortfahren können."
+"Lieferadresse nicht gefunden","Der Dienstleister konnte Ihre Adresse nicht verifizieren. Bitte prüfen Sie Ihre Angaben."
+"Unbestätigte Kontoänderung","Eine Änderung in Ihrem Profil wurde erkannt, aber nicht bestätigt. Überprüfen Sie diese."
+"Rechnung korrigiert","Ihre Rechnung wurde angepasst und erneut bereitgestellt."
+"Verzögerte Bearbeitung","Ihr Vorgang wird verzögert bearbeitet, da Angaben fehlen. Bitte vervollständigen Sie diese."
+"Wichtige Serviceinformation","Ihr Service wurde aktualisiert. Prüfen Sie die neuen Bedingungen online."
+"Nachricht im Postfach","Sie haben eine neue Systemnachricht. Sie kann ausschließlich im Kundenportal eingesehen werden."
+"Loginversuch fehlgeschlagen","Ein Loginversuch wurde blockiert. Falls Sie das nicht waren, ändern Sie Ihr Passwort."
+"Neue Phase des Programms","Sie haben die nächste Stufe im Programm erreicht. Aktivieren Sie Ihre Vorteile."
+"Bonus läuft bald ab","Ihr aktueller Bonus verfällt bald. Lösen Sie ihn rechtzeitig ein."
+"Automatische Verlängerung aktiviert","Ihre automatische Verlängerung wurde aktiviert. Prüfen Sie die Laufzeitdetails."
+"Wichtige Kontoprüfung","Ihr Konto wurde zur Sicherheitsprüfung markiert. Vervollständigen Sie die geforderten Angaben."
+"E-Mail konnte nicht zugestellt werden","Eine Nachricht an Sie konnte nicht zugestellt werden. Aktualisieren Sie Ihre Kontaktinformationen."
+"Bestellung erfordert Freigabe","Ihre Bestellung ist bereit, muss aber von Ihnen bestätigt werden."
+"Neue digitale Rechnung","Eine digitale Rechnung steht zum Download bereit."
+"Anfrage erfolgreich eingegangen","Ihre Anfrage wurde registriert. Weitere Schritte finden Sie im Kundencenter."
+"Erhöhte Risiken festgestellt","Wir haben ungewöhnliche Aktivitäten festgestellt. Es wird ein Sicherheitscheck empfohlen."
+"Konto steht zur Aktualisierung bereit","Ihr Konto benötigt eine Aktualisierung, um die gesetzlichen Anforderungen zu erfüllen."
+"Neue Richtlinien verfügbar","Unsere Richtlinien wurden überarbeitet. Prüfen Sie die Änderungen."
+"Zugriff bald eingeschränkt","Wenn Sie Ihre Daten nicht aktualisieren, wird Ihr Zugriff eingeschränkt."
+"Mehrstufige Bestätigung nötig","Ein mehrstufiger Prozess muss abgeschlossen werden, um fortzufahren."
+"Korrektur einer Anfrage","Eine frühere Anfrage wurde zurückgestellt. Bitte prüfen Sie die Angaben erneut."
+"Zahlungsmethode abgelaufen","Ihre aktuelle Zahlungsmethode ist nicht mehr gültig. Hinterlegen Sie eine neue."
+"Neue Bestellung eingegangen","Eine Bestellung wurde Ihrem Konto hinzugefügt, benötigt aber noch Ihre Freigabe."
+"Adressnachweis fehlt","Zur Bearbeitung Ihres Vorgangs ist ein gültiger Adressnachweis erforderlich."
+"Fehlerhafte Synchronisierung","Ein Fehler bei der Synchronisierung wurde festgestellt. Wiederholen Sie den Vorgang."
+"Letzte Erinnerung","Dies ist die letzte Erinnerung vor Deaktivierung Ihres Zugangs."
+"Prüfung des Kontostatus nötig","Ihr aktueller Status muss geprüft werden. Führen Sie die Schritte im Portal durch."
+"Geschützte Nachricht erhalten","Sie haben eine geschützte Nachricht erhalten, die nur online eingesehen werden kann."
+"Zahlungsbestätigung angefordert","Bitte bestätigen Sie die letzte Zahlung, um den Vorgang abzuschließen."
+"Servicebedingungen angepasst","Wir haben unsere Servicebedingungen geändert. Bestätigung erforderlich."
+"Ungewöhnliche Übertragung erkannt","Eine ungewöhnliche Datenübertragung wurde registriert. Überprüfung empfohlen."
+"Neue Verknüpfung erforderlich","Zur Nutzung bestimmter Dienste muss Ihr Konto erneut verknüpft werden."
+"Gutschein verfügbar","Ein Gutschein wurde freigeschaltet und kann eingelöst werden."
+"Serviceanfrage offen","Eine Serviceanfrage wartet auf Ihre Rückmeldung. Ohne Ihre Antwort erfolgt keine Bearbeitung."
+"Zustimmung erforderlich","Bitte stimmen Sie den neuen Anforderungen zu, um den Dienst weiter zu nutzen."
+"Überprüfung der Zahlungsmethode","Ihre Zahlungsmethode wurde nicht akzeptiert. Bitte aktualisieren Sie diese."
+"Paket wurde angehalten","Ihre Sendung wurde angehalten und muss freigegeben werden."
+"Kontooptimierung verfügbar","Sie können Ihr Konto optimieren. Nutzen Sie die neuen Einstellungen."
+"Regulatorische Prüfung notwendig","Aufgrund neuer Vorgaben ist eine Prüfung Ihrer Daten erforderlich."
+"Bestätigung eines Prozesses nötig","Ein laufender Prozess kann erst fortgesetzt werden, wenn Sie bestätigen."
+"Neue Mitgliedschaft aktiviert","Ihre Mitgliedschaft wurde aktiviert. Prüfen Sie Ihre Vorteile."
+"Dokumentation unvollständig","Ein Teil Ihrer Dokumente fehlt. Laden Sie die fehlenden Dateien hoch."
+"Vertragsstatus aktualisiert","Der Status Ihres Vertrags wurde angepasst. Details im Portal."
+"Ungewöhnliches Login erkannt","Ein ungewöhnliches Login wurde registriert. Bestätigen Sie den Zugriff."
+"Gespeicherte Daten abgelaufen","Einige Ihrer gespeicherten Daten sind veraltet. Bitte aktualisieren Sie diese."
+"Neue Abrechnungsform","Eine neue Abrechnungsform steht zur Auswahl. Prüfen Sie Ihre Optionen."
+"Serviceoptionen geändert","Es wurden neue Optionen hinzugefügt. Aktivieren Sie die gewünschten Funktionen."
+"Bearbeitung pausiert","Ihr Vorgang wurde pausiert, da Informationen fehlen."
+"Abonnement wartet auf Bestätigung","Ihr Abonnement wurde registriert, aber nicht abgeschlossen."
+"Kontoauszug verfügbar","Ein neuer Kontoauszug steht bereit."
+"Reparatur abgeschlossen","Ihre technische Anfrage wurde erfolgreich abgeschlossen. Prüfen Sie den Status."
+"Unklare Anforderung","Eine unklare Anforderung wurde empfangen. Bitte klären Sie den Vorgang."
+"Übergang zu neuem System","Ihr Konto wird auf ein neues System übertragen. Bestätigung erforderlich."
+"Option zur Rückgewinnung","Sie können verlorene Vorteile wiederherstellen. Aktivieren Sie diese Möglichkeit."
+"Berechtigung erneuern","Ihre Berechtigung für den Dienst muss erneuert werden."
+"Neue Warnung","Es liegt eine neue Sicherheitswarnung vor. Prüfen Sie die Meldung."
+"Lieferung angepasst","Ihre Lieferung wurde neu geplant. Bestätigen Sie den neuen Termin."
+"Freigeschaltete Inhalte","Neue Inhalte wurden für Sie freigeschaltet. Jetzt ansehen."
+"Sicherheitsstatus überprüfen","Ihr Sicherheitsstatus muss aktualisiert werden. Folgen Sie den Schritten im Portal."
+"Überprüfung eingeleitet","Eine Überprüfung Ihres Kontos wurde begonnen. Sie müssen einige Angaben bestätigen."
+"Begrenzter Zugang","Ihr Zugang ist vorübergehend begrenzt, bis Maßnahmen abgeschlossen sind."
+"Dokumentenänderung erkannt","Eine Änderung in Ihren Dokumenten wurde festgestellt. Bitte prüfen Sie diese."
+"Gebührenerhöhung angekündigt","Eine Gebührenerhöhung tritt bald in Kraft. Prüfen Sie die neuen Konditionen."
+"Neue Supportnachricht","Der Support hat Ihnen eine Nachricht hinterlassen. Sie kann im Kundenbereich gelesen werden."
+"Überarbeitung erforderlich","Ein Vorgang erfordert Überarbeitung. Aktualisieren Sie die fehlenden Angaben."
+"Unvollständige Lieferung","Eine Lieferung konnte nicht vollständig ausgeführt werden. Bestätigung erforderlich."
+"Zahlungserinnerung","Bitte begleichen Sie den ausstehenden Betrag, um zusätzliche Gebühren zu vermeiden."
+"Wiederherstellung möglich","Sie können Daten wiederherstellen, die durch einen Fehler verloren gingen."
+"Einladung läuft bald ab","Ihre Einladung ist zeitlich begrenzt. Aktivieren Sie sie, solange sie gültig ist."
+"Beleg fehlt","Ein erforderlicher Beleg fehlt. Laden Sie ihn hoch, um fortzufahren."
+"Erweitertes Profil verfügbar","Sie können Ihr Profil erweitern, um zusätzliche Vorteile zu nutzen."
+"Abweichung erkannt","Eine Abweichung zu früheren Angaben wurde festgestellt. Führen Sie eine Prüfung durch."
+"Konto wurde geschützt","Wir haben Schutzmaßnahmen aktiviert. Prüfen Sie Ihr Konto auf Änderungen."
+"Aktualisierung abgeschlossen","Ihre Datenaktualisierung wurde erfolgreich abgeschlossen."
+"Verknüpfung fehlgeschlagen","Die Verknüpfung eines Dienstes war nicht erfolgreich. Wiederholen Sie den Vorgang."
+"Neue Einladung erhalten","Sie haben eine Einladung erhalten. Details finden Sie im Portal."
+"Bestätigung fehlt","Zum Abschluss der Aktion fehlt Ihre Bestätigung."
+"Relevante Information verfügbar","Für Ihr Konto liegt eine wichtige Information vor. Sie ist im Portal abrufbar."
+"Verifizierung notwendig","Ihre fortgesetzte Nutzung erfordert eine neue Verifizierung."
+"Neue Registrierung erkannt","Eine neue Registrierung wurde mit Ihrer E-Mail begonnen. Prüfen Sie die Details."
+"Support benötigt Angaben","Der Support benötigt zusätzliche Informationen, um fortzufahren."
+"Konto nicht synchronisiert","Eine Synchronisierung war nicht erfolgreich. Starten Sie erneut."
+"Bonusprogramm erneuert","Das Bonusprogramm wurde überarbeitet. Aktivieren Sie Ihre neuen Vorteile."
+"Anfrage zurückgestellt","Ihre Anfrage wurde zurückgestellt. Bitte prüfen Sie die Angaben erneut."
+
+
+"Dringende Aktualisierung Ihrer Zugangsdaten erforderlich",
+"Sehr geehrte Kundin, sehr geehrter Kunde,
+
+wir möchten Sie darüber informieren, dass eine ungewöhnliche Aktivität auf Ihrem Benutzerkonto festgestellt wurde. Aus Sicherheitsgründen müssen Ihre Zugangsdaten innerhalb der nächsten 24 Stunden bestätigt werden, um eine automatische Sperrung zu vermeiden.
+
+Bitte öffnen Sie den folgenden Link und führen Sie die Identitätsprüfung durch:
+
+https://service-konto-überprüfung.com/login
+
+Sollten Sie diese Nachricht ignorieren oder nicht rechtzeitig reagieren, wird Ihr Zugriff eingeschränkt und bestimmte Funktionen stehen nicht mehr zur Verfügung.
+
+Vielen Dank für Ihre Mithilfe,
+Ihr Sicherheitsteam"
+"Rechnung überfällig – letzte Mahnung",
+"Guten Tag,
+
+dies ist Ihre letzte Benachrichtigung über eine offene Rechnung, die bisher nicht beglichen wurde. Der ausstehende Betrag muss innerhalb der nächsten 48 Stunden bezahlt werden, um zusätzliche Gebühren oder eine Weitergabe an ein Mahnunternehmen zu verhindern.
+
+Offener Betrag: 248,60 €  
+Rechnungsnummer: RF-49281-22  
+Fälligkeitsdatum: abgelaufen
+
+Bitte begleichen Sie die Rechnung über den folgenden Link:
+https://rechnungszentrum-abwicklung.com/zahlung
+
+Wenn Sie bereits gezahlt haben, ignorieren Sie diese Nachricht.
+
+Mit freundlichen Grüßen  
+Abteilung Forderungsmanagement"
+"Ihre Lieferung wurde angehalten – Bestätigung notwendig",
+"Sehr geehrte Dame, sehr geehrter Herr,
+
+Ihre Sendung mit der Nummer **DE-9032214** konnte nicht zugestellt werden. Der Transportdienst meldet fehlende Adressangaben. Um die Auslieferung fortzusetzen, benötigen wir Ihre Bestätigung.
+
+Bitte prüfen Sie Ihre Angaben unter folgendem Link:
+https://lieferstatus-aktualisieren.com/redirect
+
+Wenn wir innerhalb von 72 Stunden keine Rückmeldung erhalten, wird die Sendung retourniert oder entsorgt.
+
+Vielen Dank für Ihre schnelle Reaktion."
+"Ihre Lieferung wurde angehalten – Bestätigung notwendig",
+"Sehr geehrte Dame, sehr geehrter Herr,
+
+Ihre Sendung mit der Nummer **DE-9032214** konnte nicht zugestellt werden. Der Transportdienst meldet fehlende Adressangaben. Um die Auslieferung fortzusetzen, benötigen wir Ihre Bestätigung.
+
+Bitte prüfen Sie Ihre Angaben unter folgendem Link:
+https://lieferstatus-aktualisieren.com/redirect
+
+Wenn wir innerhalb von 72 Stunden keine Rückmeldung erhalten, wird die Sendung retourniert oder entsorgt.
+
+Vielen Dank für Ihre schnelle Reaktion."
+"Wichtige Änderung Ihrer Bankdaten",
+"Sehr geehrter Kontoinhaber,
+
+unsere Systeme haben ein Update durchgeführt, das eine erneute Bestätigung Ihrer Bankdaten erforderlich macht. Diese Routineüberprüfung dient ausschließlich Ihrer Sicherheit.
+
+Zum Abgleich gelangen Sie über folgenden Link:
+https://bank-verifizierung-service.com
+
+Bitte beachten Sie: Ohne diese Aktualisierung wird Ihre Karte automatisch deaktiviert. Dies betrifft sowohl Online-Zahlungen als auch Geldabhebungen.
+
+Ihr Kundenservice."
+"Bestätigung Ihrer Mitgliedschaft erforderlich",
+"Guten Tag,
+
+Sie haben die automatische Verlängerung Ihres Premium-Abonnements aktiviert. Um die Vorteile weiterhin nutzen zu können, ist eine Bestätigung Ihrer Zahlungsdaten notwendig.
+
+Vorteile, die verloren gehen könnten:
+– Priorisierter Support  
+– Erweiterter Speicher  
+– Zugriff auf exklusive Inhalte  
+
+Jetzt bestätigen:
+https://mitgliedschaft-erneuern.com/check
+
+Mit freundlichen Grüßen  
+Ihr Premium-Servicecenter"
+"Ungewöhnliche Login-Versuche erkannt",
+"Hallo,
+
+wir haben mehrere fehlgeschlagene Login-Versuche von einem unbekannten Gerät registriert. Zur Sicherheit wurde Ihr Konto vorübergehend eingeschränkt.
+
+Informationen:
+• Standort: Frankreich  
+• Gerät: Unbekannt  
+• Zeit: 03:12 Uhr  
+
+Um Ihr Konto wieder freizuschalten, führen Sie bitte die folgende Prüfung durch:
+https://konto-verifikation-sicherheit.com
+
+Wenn Sie dies waren, können Sie die Sicherheitswarnung ignorieren.
+
+Ihr Sicherheitsteam"
+"Neue Zahlungsbedingungen – Aktion erforderlich",
+"Sehr geehrtes Mitglied,
+
+wir passen unsere Zahlungsbedingungen an. Um den Dienst weiterhin ohne Unterbrechung zu nutzen, bitten wir Sie, die neuen Konditionen zu bestätigen.
+
+Bitte bestätigen Sie bis spätestens **Freitag, 18:00 Uhr**:
+https://zahlung-update.com/formular
+
+Ohne Bestätigung können wir Ihren Account nicht weiterführen.
+
+Vielen Dank,
+Ihre Abrechnungsstelle"
+"Sie wurden als Gewinner ausgewählt!",
+"Herzlichen Glückwunsch!
+
+Sie wurden zufällig ausgewählt und haben Anspruch auf einen exklusiven Preis im Wert von bis zu 2.000 €. Um Ihren Gewinn zu sichern, müssen Sie lediglich Ihre Teilnahme bestätigen.
+
+Hier bestätigen:
+https://gewinn-aktivieren.com/jetzt
+
+Bitte beachten Sie: Diese Aktion ist nur für kurze Zeit verfügbar. Ohne Bestätigung verfällt Ihr Anspruch.
+
+Wir wünschen viel Erfolg!"
+"Kontozugang eingeschränkt – Informationen fehlen",
+"Guten Tag,
+
+um Ihren Zugang weiterhin nutzen zu können, benötigen wir zusätzliche Angaben zu Ihrem Profil. Der Gesetzgeber hat neue Anforderungen eingeführt, die eine schnelle Identifikation notwendig machen.
+
+Bitte reichen Sie die fehlenden Informationen ein:
+https://kundenbereich-update.com/daten
+
+Dies ist eine automatische Erinnerung. Bei Nichtreaktion wird der Zugang nach 3 Tagen gesperrt.
+
+Ihr Kundenservice."
+"Unbekannte Transaktion erkannt – sofortige Prüfung notwendig",
+"Sehr geehrter Nutzer,
+
+auf Ihrem Konto wurde eine Transaktion festgestellt, die möglicherweise nicht von Ihnen stammt:
+
+Betrag: 189,90 €  
+Standort: Belgien  
+Zeitpunkt: 02:47 Uhr  
+
+Falls Sie diese Zahlung nicht autorisiert haben, stoppen Sie den Vorgang über:
+https://transaktion-prüfen.com
+
+Wir empfehlen dringend eine sofortige Überprüfung.
+
+Ihr Sicherheitsteam"
+"Ungewöhnliche Anmeldung – Bestätigung erforderlich",
+"Sehr geehrter Nutzer,
+
+wir haben eine Anmeldung auf Ihrem Konto festgestellt, die nicht Ihrem üblichen Standort entspricht:
+
+Gerät: Windows-PC
+Region: Warschau, Polen
+Zeitpunkt: 03:12 Uhr
+
+Wenn diese Anmeldung nicht von Ihnen stammt, sichern Sie Ihr Konto unter folgendem Link:
+https://konto-sicherheit
+
+prüfen.net/login
+
+Bitte reagieren Sie zeitnah, um Missbrauch zu verhindern.
+
+Ihr Sicherheitsteam"
+"Zahlung fehlgeschlagen – Datenaktualisierung notwendig",
+"Guten Tag,
+
+Ihre letzte Zahlung konnte nicht verarbeitet werden. Dies kann an veralteten oder fehlerhaften Zahlungsdaten liegen.
+
+Damit Ihre Bestellung nicht storniert wird, aktualisieren Sie bitte Ihre Angaben über folgenden gesicherten Link:
+https://zahlung-aktualisieren.de/update
+
+Sollte innerhalb der nächsten 24 Stunden keine Bestätigung erfolgen, wird die Bestellung automatisch abgebrochen.
+
+Vielen Dank für Ihre Mithilfe."
+"Betrugswarnung – ungewöhnliches Verhalten erkannt",
+"Sehr geehrter Kunde,
+
+auf Ihrem Konto wurde ein Verhalten festgestellt, das auf automatisierte Zugriffe hindeutet.
+Aus Sicherheitsgründen wurde Ihr Konto vorübergehend eingeschränkt.
+
+Um die Einschränkung aufzuheben, verifizieren Sie bitte Ihre Identität:
+https://zugriff-verifizieren.net/check
+
+Bitte beachten Sie, dass eine Nichtbestätigung zur dauerhaften Sperrung führen kann."
+"Rückerstattung bereit – bitte Angaben bestätigen",
+"Guten Tag,
+
+Sie haben Anspruch auf eine Rückerstattung aus einem jüngsten Vorgang.
+Um den Betrag auszuzahlen, benötigen wir eine kurze Bestätigung Ihrer Daten.
+
+Nutzen Sie den folgenden Link, um die Überprüfung abzuschließen:
+https://erstattung-aktivieren.com/refund
+
+Die Rückerstattung verfällt automatisch nach 48 Stunden.
+
+Ihr Abrechnungsteam"
+
+"Dokument konnte nicht synchronisiert werden",
+"Sehr geehrte Person,
+
+ein von Ihnen freigegebenes Dokument konnte nicht synchronisiert werden, da eine Berechtigung abgelaufen ist.
+
+Aktualisieren Sie die Freigabe über folgenden Link:
+https://dokument-sync-service.net/verify
+
+Ohne Aktualisierung wird der Zugriff für alle Teilnehmer deaktiviert."
+
+"Sicherheitsprüfung erforderlich – verdächtiges Gerät verbunden",
+"Hallo,
+
+ein neues Gerät wurde mit Ihrem Konto verknüpft:
+
+Gerät: Android-Smartphone
+Standort: Rumänien
+Zeitpunkt: 01:36 Uhr
+
+Falls dies nicht von Ihnen stammt, müssen Sie die Verbindung sofort trennen:
+https://gerät-trennen.com/remove
+
+Diese Maßnahme schützt Ihr Konto vor unbefugtem Zugriff."
+
+"Versandbestätigung nicht möglich – Daten unvollständig",
+"Guten Tag,
+
+wir konnten Ihre Versandbestätigung nicht erstellen, da die hinterlegte Adresse unvollständig ist.
+
+Bitte überprüfen Sie Ihre Angaben und korrigieren Sie diese hier:
+https://adresse-aktualisieren.de/edit
+
+Solange die Angaben fehlen, wird Ihre Bestellung nicht versendet."
+
+"Kontoaktivität widersprüchlich – erneute Überprüfung nötig",
+"Sehr geehrter Kunde,
+
+wir haben widersprüchliche Aktivitäten auf Ihrem Konto festgestellt.
+Um die Sicherheit zu gewährleisten, ist eine erneute Identitätsprüfung erforderlich.
+
+Beginnen Sie die Überprüfung unter:
+https://ident-erneuern.com/start
+
+Der Vorgang dauert nur wenige Minuten."
+
+"Neue Nachricht im Kundenportal – Zugriff erforderlich",
+"Hallo,
+
+Sie haben eine neue Mitteilung in Ihrem Kundenportal.
+Aus Datenschutzgründen kann der Inhalt nicht direkt per E-Mail angezeigt werden.
+
+Rufen Sie die Nachricht hier ab:
+https://kundenportal-nachricht.de/login
+
+Die Mitteilung wird nach 72 Stunden automatisch archiviert."
+"Abonnement läuft aus – letzte Chance zur Verlängerung",
+"Sehr geehrter Abonnent,
+
+Ihr aktuelles Abonnement endet in Kürze.
+Um Unterbrechungen zu vermeiden, verlängern Sie bitte rechtzeitig über folgenden Link:
+
+https://abo-verlängern.com/renew
+
+Nach Ablauf der Frist wird das Konto automatisch deaktiviert."

@@ -1,0 +1,105 @@
+subject;body;label
+"Login funktioniert nicht";"Ich kann mich nicht mehr in mein Konto einloggen und erhalte ständig eine Fehlermeldung.";support
+"Fehler beim Start der App";"Die Anwendung stürzt direkt nach dem Öffnen ab und zeigt einen roten Fehlercode.";support
+"E-Mail Empfang gestört";"Seit gestern bekomme ich keine neuen Nachrichten mehr. Können Sie das prüfen?";support
+"Passwort ungültig";"Mein Passwort wird nicht akzeptiert, obwohl ich es nicht geändert habe.";support
+"Download bricht ab";"Ich versuche eine Datei herunterzuladen, aber der Vorgang stoppt jedes Mal bei 5 Prozent.";support
+"Softwareabsturz";"Während der Nutzung friert das Programm ein und reagiert nicht mehr.";support
+"Anhang lässt sich nicht öffnen";"Ich kann den PDF-Anhang einer Nachricht nicht öffnen, es erscheint nur eine Fehlermeldung.";support
+"Einstellungen werden nicht gespeichert";"Nach dem Neustart sind alle meine Einstellungen wieder weg. Bitte um Hilfe.";support
+"Server nicht erreichbar";"Die Software kann keine Verbindung zum Server aufbauen. Bitte prüfen Sie die Verbindung.";support
+"Installation schlägt fehl";"Beim Setup erscheint eine Meldung, dass Dateien fehlen. Ich kann die Installation nicht abschließen.";support
+"Verbindung bricht ab";"Während meiner Arbeit werde ich immer wieder vom System getrennt.";support
+"Nachrichten können nicht versendet werden";"Ich schreibe eine Nachricht, aber beim Senden erscheint ein Fehler.";support
+"Bildschirm bleibt schwarz";"Nach dem Start der App sehe ich nur einen schwarzen Bildschirm.";support
+"Login-Button ohne Funktion";"Der Button zum Anmelden reagiert nicht, egal wie oft ich ihn anklicke.";support
+"Ständige Fehlermeldungen";"Ich bekomme beim Öffnen verschiedener Funktionen immer wieder unterschiedliche Fehlermeldungen.";support
+"Drucker nicht erkannt";"Mein Gerät kann den Drucker nicht finden. Andere Programme drucken problemlos.";support
+"Kein Profilzugriff";"Ich komme nicht auf meine Profilseite. Es lädt unendlich.";support
+"Kamera funktioniert nicht";"Die App erkennt meine Kamera nicht, obwohl andere Programme sie nutzen können.";support
+"Passwort zurücksetzen geht nicht";"Ich gebe meine E-Mail zum Zurücksetzen ein, aber ich erhalte keinen Code.";support
+"Datensynchronisation fehlschlägt";"Kalenderdaten werden nicht synchronisiert.";support
+"Upload bleibt hängen";"Beim Hochladen einer Datei bleibt der Fortschritt bei 0 Prozent stehen.";support
+"Authentifizierung schlägt fehl";"Ich erhalte immer die Meldung, dass meine Identität nicht bestätigt werden konnte.";support
+"Update nicht installierbar";"Das System sagt, das Update sei verfügbar, aber es kann nicht installiert werden.";support
+"App ist sehr langsam";"Die Oberfläche reagiert verzögert, teilweise mehrere Sekunden.";support
+"Probleme beim Zurücksetzen";"Ich wollte meine Einstellungen zurücksetzen, aber danach startet die App gar nicht mehr.";support
+
+"Frage zu Rechnung 2024-118";"Ich benötige eine Kopie der Rechnung und eine Erläuterung der aufgeführten Positionen.";buchhaltung
+"Abbuchung prüfen";"Die letzte Abbuchung ist doppelt erfolgt. Bitte prüfen Sie den Vorgang.";buchhaltung
+"Bankverbindung aktualisieren";"Ich habe meine Kontonummer geändert und brauche eine Aktualisierung in Ihrem System.";buchhaltung
+"Zahlungseingang unklar";"Können Sie bestätigen, ob meine Überweisung vom 03.11 eingegangen ist?";buchhaltung
+"Mahnung erhalten";"Ich habe eine Mahnung bekommen, obwohl ich bereits bezahlt habe. Bitte prüfen Sie das.";buchhaltung
+"Rückerstattung anfragen";"Ich möchte eine Rückerstattung für die fehlerhafte Bestellung beantragen.";buchhaltung
+"Überweisung zurückgewiesen";"Meine Bank hat die Zahlung zurückgesendet. Können Sie mir sagen, warum?";buchhaltung
+"Rechnung fehlt";"Ich habe die aktuelle Rechnung nicht erhalten. Könnten Sie sie erneut senden?";buchhaltung
+"Falscher Rechnungsbetrag";"Die Summe auf der Rechnung stimmt nicht mit der Bestellung überein.";buchhaltung
+"Offene Posten Übersicht";"Bitte senden Sie mir eine aktuelle Übersicht aller offenen Rechnungen.";buchhaltung
+"Kreditkarte abgelehnt";"Bei der Zahlung mit Kreditkarte erscheint die Meldung 'Transaktion abgelehnt'.";buchhaltung
+"Lastschrift aktivieren";"Ich möchte zukünftig per SEPA-Lastschrift zahlen. Was muss ich tun?";buchhaltung
+"Rechnung stornieren";"Ich bitte um Stornierung der Rechnung, da die Bestellung zurückgesendet wurde.";buchhaltung
+"Zahlungsfrist verlängern";"Ich benötige ein paar Tage länger zur Begleichung der Rechnung.";buchhaltung
+"Forderung klären";"Ich habe eine offene Forderung erhalten, die ich nicht nachvollziehen kann.";buchhaltung
+"Rechnungspositionen prüfen";"Einige Positionen der Rechnung stimmen nicht mit meiner Bestellung überein.";buchhaltung
+"Konto wird nicht akzeptiert";"Mein Konto wird bei der Zahlung nicht erkannt. Woran kann das liegen?";buchhaltung
+"Unberechtigte Abbuchung";"Ich habe eine Abbuchung festgestellt, die ich nicht kenne. Bitte überprüfen.";buchhaltung
+"Neue Zahlungsübersicht";"Ich benötige eine aktuelle Aufstellung meiner Zahlungen.";buchhaltung
+"Rechnung digital erhalten";"Ich möchte meine Rechnungen ab sofort nur noch digital erhalten.";buchhaltung
+"Ratenzahlung anfragen";"Ist es möglich, die Rechnung in mehreren Raten zu zahlen?";buchhaltung
+"Überweisung bestätigen";"Bitte bestätigen Sie den Eingang der Zahlung über 185 Euro.";buchhaltung
+"Korrektur erforderlich";"Der Rechnungsbetrag ist falsch, bitte korrigieren Sie ihn.";buchhaltung
+"Download der Rechnung fehlerhaft";"Ich kann die Rechnung in meinem Kundenkonto nicht herunterladen.";buchhaltung
+"Zahlungsdifferenz prüfen";"Zwischen meiner Zahlung und Ihrer Rechnung gibt es eine Abweichung.";buchhaltung
+
+"Angebotsanfrage";"Ich interessiere mich für Ihr Produkt und hätte gern ein unverbindliches Angebot.";vertrieb
+"Kooperationsanfrage";"Wir möchten prüfen, ob eine Zusammenarbeit in Zukunft möglich ist.";vertrieb
+"Bitte um Beratung";"Wir planen ein neues Projekt und möchten uns beraten lassen.";vertrieb
+"Preisübersicht benötigt";"Können Sie mir eine vollständige Preisliste zukommen lassen?";vertrieb
+"Systemwechsel geplant";"Wir evaluieren neue Systeme und möchten Informationen zu Ihren Lösungen.";vertrieb
+"Demo-Zugang anfordern";"Ich möchte Ihre Software vorab testen. Können Sie einen Zugang bereitstellen?";vertrieb
+"Produktpräsentation";"Wir benötigen eine Präsentation Ihrer wichtigsten Funktionen.";vertrieb
+"Details zu Servicepaketen";"Welche Support- und Servicepakete bieten Sie an?";vertrieb
+"Projektanfrage";"Wir möchten ein Softwareprojekt starten und suchen einen passenden Anbieter.";vertrieb
+"Lizenzmodell klären";"Wie funktionieren Ihre Lizenzen und welche Varianten gibt es?";vertrieb
+"Testversion erfragen";"Ist eine kostenlose Testversion Ihrer Software verfügbar?";vertrieb
+"Kostenabschätzung";"Können Sie eine grobe Kostenschätzung für ein mittleres Projekt abgeben?";vertrieb
+"Frage zu Verfügbarkeit";"Können Sie kurzfristig Kapazitäten für ein Projekt bereitstellen?";vertrieb
+"Informationsmaterial";"Bitte senden Sie mir Unterlagen über Ihr Unternehmen und Ihre Produkte.";vertrieb
+"Vertragslaufzeit";"Wie lange laufen Ihre Standardverträge und welche Optionen gibt es?";vertrieb
+"Implementierungsablauf";"Wie läuft die Einführung Ihrer Software typischerweise ab?";vertrieb
+"Termin für Erstgespräch";"Ich würde gern ein unverbindliches Gespräch vereinbaren.";vertrieb
+"Rabattanfrage";"Gibt es Preisnachlässe für größere Auftragsvolumen?";vertrieb
+"Projektidee vorstellen";"Ich möchte Ihnen unsere Projektidee kurz schildern.";vertrieb
+"SLA Informationen";"Welche Service-Level-Agreements können Sie anbieten?";vertrieb
+"Einschätzung benötigt";"Wir benötigen eine erste Einschätzung Ihrer technischen Möglichkeiten.";vertrieb
+"Paketübersicht";"Welche Pakete stehen zur Auswahl und was beinhalten sie?";vertrieb
+"Kooperation prüfen";"Wir würden gern die Rahmenbedingungen für eine mögliche Kooperation besprechen.";vertrieb
+"Verfügbare Module";"Welche Module Ihrer Software sind optional buchbar?";vertrieb
+"Angebot anfordern";"Bitte senden Sie uns ein unverbindliches Angebot.";vertrieb
+
+subject;body;label
+"Materialbestellung";"Wir möchten eine neue Bestellung für Materialien aufgeben.";einkauf
+"Lieferverzug";"Unsere Lieferung ist überfällig. Können Sie uns ein neues Lieferdatum nennen?";einkauf
+"Ware falsch geliefert";"Wir haben eine andere Ware erhalten als bestellt.";einkauf
+"Angebot aktualisieren";"Bitte senden Sie uns ein aktualisiertes Angebot mit den neuesten Preisen.";einkauf
+"Bestellung ändern";"Wir möchten die Menge der letzten Bestellung anpassen.";einkauf
+"Lieferzeit erfragen";"Wie lange dauert die Lieferung des Produkts?";einkauf
+"Fehlende Artikel";"Einige Teile fehlen in der aktuellen Lieferung.";einkauf
+"Waren beschädigt";"Die gelieferte Ware weist mehrere Schäden auf.";einkauf
+"Lieferadresse bestätigen";"Bitte bestätigen Sie die korrekte Lieferadresse für unsere Bestellung.";einkauf
+"Preisübersicht anfragen";"Wir benötigen eine aktuelle Preisliste für Ihre Artikel.";einkauf
+"Bestellübersicht";"Bitte senden Sie uns eine Gesamtübersicht aller bisherigen Bestellungen.";einkauf
+"Mengenrabatt";"Gibt es Rabatte bei höheren Bestellmengen?";einkauf
+"Verfügbarkeit prüfen";"Wir benötigen eine Aussage zur kurzfristigen Verfügbarkeit bestimmter Produkte.";einkauf
+"Versandoptionen";"Welche Versandarten stehen zur Verfügung?";einkauf
+"Zusatzbestellung";"Wir möchten zusätzliche Artikel zur bestehenden Bestellung hinzufügen.";einkauf
+"Bestelländerung bestätigen";"Bitte bestätigen Sie die gewünschte Änderung der Bestellung.";einkauf
+"Keine Versandbestätigung erhalten";"Wir haben noch keine Versandbestätigung bekommen.";einkauf
+"Liefermenge falsch";"Die Menge der gelieferten Artikel stimmt nicht mit der Bestellung überein.";einkauf
+"Ersatzlieferung";"Wir benötigen eine Ersatzlieferung für beschädigte Artikel.";einkauf
+"Rahmenvertrag besprechen";"Wir möchten über einen möglichen Rahmenvertrag sprechen.";einkauf
+"Liefertermin erfragen";"Können Sie uns ein verbindliches Lieferdatum nennen?";einkauf
+"Produkt zurücksenden";"Wir möchten ein Produkt zurückschicken und benötigen Anweisungen.";einkauf
+"Qualitätsmangel";"Die Qualität der gelieferten Waren entspricht nicht unseren Anforderungen.";einkauf
+"B2B Anfrage";"Wir möchten langfristig größere Mengen beziehen. Bitte um Informationen.";einkauf
+"Regelmäßige Lieferungen";"Wir möchten eine Anfrage für regelmäßige monatliche Lieferungen stellen.";einkauf
