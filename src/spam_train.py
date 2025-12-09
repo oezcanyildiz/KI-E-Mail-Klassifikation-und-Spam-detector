@@ -9,7 +9,7 @@ import joblib
 
 
 # Pfade
-DATA_FILE = r"C:\Users\Student\Desktop\Abschluss Projekt\Projekt\data\spam_preprocessed.csv"
+DATA_FILE = os.path.join("data", "spam_preprocessed.csv")
 MODEL_DIR = "models"
 VECTORIZER_FILE = os.path.join(MODEL_DIR, "spam_vectorizer.pkl")
 LOGREG_FILE = os.path.join(MODEL_DIR, "spam_logreg.pkl")
@@ -36,12 +36,7 @@ def train_spam_model():
         random_state=42,
         stratify=y
     )
-
-    print(f"Train: {len(X_train)}, Test: {len(X_test)}")
-
-    # -------------------------------
     # 1) TF-IDF VECTORISER TRAINIEREN
-    # -------------------------------
     vectorizer = TfidfVectorizer(
         ngram_range=(1, 2),
         min_df=2,
@@ -52,9 +47,7 @@ def train_spam_model():
     X_train_vec = vectorizer.fit_transform(X_train)
     X_test_vec = vectorizer.transform(X_test)
 
-    # -------------------------------
     # 2) Logistic Regression TRAINIEREN
-    # -------------------------------
     logreg = LogisticRegression(
         max_iter=200,
         class_weight="balanced",
@@ -64,26 +57,15 @@ def train_spam_model():
     logreg.fit(X_train_vec, y_train)
     y_pred = logreg.predict(X_test_vec)
 
-    # -------------------------------
     # 3) Bewertung
-    # -------------------------------
     acc = accuracy_score(y_test, y_pred)
     print(f"\nAccuracy: {acc:.3f}\n")
     print(classification_report(y_test, y_pred, digits=3))
 
-    # -------------------------------
     # 4) Modelle speichern
-    # -------------------------------
     os.makedirs(MODEL_DIR, exist_ok=True)
-
-    print(f"Speichere Vectorizer → {VECTORIZER_FILE}")
     joblib.dump(vectorizer, VECTORIZER_FILE)
-
-    print(f"Speichere Logistic Regression → {LOGREG_FILE}")
     joblib.dump(logreg, LOGREG_FILE)
-
-    print("Training abgeschlossen.")
-
 
 if __name__ == "__main__":
     train_spam_model()

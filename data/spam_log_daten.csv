@@ -1,3 +1,9 @@
 timestamp,prediction,probability,email_text
 2025-12-03T23:20:46.673443,spam,0.6599,"Sehr geehrter Nutzer,"
 2025-12-03T23:21:23.423009,spam,0.6599,"Sehr geehrter Nutzer,"
+2025-12-05T16:46:30.600591,spam,0.8883,"""Gratulation! Sie haben den Hauptpreis in unserer Lotterie gewonnen. Klicken Sie hier sofort, um 10.000 € freizuschalten. Melden Sie sich mit Ihren Kontodaten an."""
+2025-12-05T16:47:32.184738,spam,0.7284,"Hallo Team, ich habe soeben die Rechnung 4567 zur Zahlung in der Buchhaltung eingereicht. Bitte prüfen Sie den Betrag und geben Sie eine Freigabe. Vielen Dank, M. Müller"
+2025-12-05T16:47:58.856533,spam,0.6437,"Sehr geehrter Herr Özcan, wir laden Sie herzlich zu unserem Web-Seminar über die neuesten Trends in der Anwendungsentwicklung ein. Termin: 15. Dez, 14:00 Uhr. Die Anmeldung finden Sie im Anhang."
+2025-12-05T16:50:00.223592,spam,0.8883,"Gratulation! Sie haben den Hauptpreis in unserer Lotterie gewonnen. Klicken Sie hier sofort, um 10.000 € freizuschalten. Melden Sie sich mit Ihren Kontodaten an"
+2025-12-05T22:47:47.500711,spam,0.7912,Betreff: Zahlungserinnerung – Offene Rechnung [Rechnungsnummer] vom [Datum]
+2025-12-05T22:48:27.692106,spam,0.8621,"Betreff: Zahlungserinnerung – Offene Rechnung [Rechnungsnummer] vom [Datum]Sehr geehrte/r [Name des Kunden/Ansprechpartners],wir möchten Sie höflich an die noch offene Zahlung unserer Rechnung mit der Nummer 1564886 vom 12.12.2025 in Höhe von 1879 Euro erinnern.Das Zahlungsziel für diese Rechnung war der 20.12.2025.Wir bitten Sie, den Betrag so bald wie möglich auf das untenstehende Konto zu überweisen, falls die Zahlung nicht bereits veranlasst wurde."

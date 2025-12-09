@@ -1,60 +1,82 @@
-# **KI-gestützte E-Mail-Klassifikation**  
-### Prototyp zur automatisierten Spam-Erkennung und Themenzuordnung
+1. Übersicht
 
----
+Dieses Repository enthält den Prototyp der E-Mail-Klassifikations-Pipeline. Die Anwendung ist als sequenzielle Machine-Learning-Pipeline in Python implementiert und dient als Proof of Concept (PoC) zur automatisierten Vorsortierung eingehender E-Mails.
 
-## **Thema des Projekts**
-Dieses Projekt entsteht im Rahmen meines **IHK-Abschlussprojekts 2025/2026**.  
-Ziel ist die Entwicklung eines Prototyps, der eingehende E-Mails automatisch bewertet, zunächst auf Spam prüft und anschließend legitime Nachrichten in inhaltliche Kategorien einordnet, z. B.:
+Das System führt zwei Hauptfunktionen aus:
 
-- Mitarbeiterangelegenheiten  
-- Zahlungen  
-- Support  
+    Stufe 1: Überprüfung auf Spam (Filterung).
 
-Auf Basis des Ergebnisses wird eine **Weiterleitungsentscheidung simuliert**.
+    Stufe 2: Thematische Klassifikation (Kategorisierung) von legitimen E-Mails.
 
----
+2. Systemanforderungen und Setup
 
-## **Projektbeschreibung**
-Der Prototyp führt die folgenden Aufgaben aus:
+Die Anwendung wurde für lokale Ausführung auf Standard-CPUs entwickelt und erfordert keine speziellen Server oder GPUs.
 
-- Einlesen und Vorverarbeitung von E-Mails  
-- Spam-Erkennung  
-- Themenklassifikation legitimer Nachrichten  
-- Evaluation der Modellgüte (Accuracy, F1-Score usw.)  
-- Vergleich verschiedener Modellansätze  
+2.1 Voraussetzungen
 
----
+    Python: Version 3.x
 
-## **Tag 1**
+    Bibliotheken: Alle Abhängigkeiten sind in der Datei requirements.txt gelistet (z.B. scikit-learn, pandas, joblib).
 
-### Projektstart
-- Projektordner erstellt  
+2.2 Installation
 
-<img width="288" height="508" alt="Spam-filterung" src="https://github.com/user-attachments/assets/980ca0ad-5bf4-486a-a0a5-5c1d16245759" />
+    Klone das Repository lokal.
 
----
+    Installiere die benötigten Python-Bibliotheken:
+    Bash
 
-### Erste Spam-Pipeline
-- Pipeline zur Spam-Erkennung entwickelt
+    pip install -r requirements.txt
 
-<img width="635" height="180" alt="spam-pipeline" src="https://github.com/user-attachments/assets/653e5eab-644a-44e9-81dc-880210e79a20" />
+3. Nutzung der Inferenz-Pipeline (Klassifikation)
 
----
+Die Klassifikation neuer E-Mails erfolgt über das Hauptskript src/main.py (CLI), nachdem die Modelle trainiert wurden.
+3.1 Modell-Initialisierung
 
-### Erste Trainingsergebnisse – Logistic Regression
+Stellen Sie sicher, dass die Modelle (spam_logreg.pkl und email_classifier_pipeline.pkl) im Ordner models/ vorhanden sind. Diese werden beim Start des Hauptskripts einmalig in den Speicher geladen, um eine schnelle Klassifikation zu gewährleisten.
+3.2 Ausführung der Klassifikation (CLI)
 
-<img width="477" height="217" alt="Spam Erste Accuracy Report" src="https://github.com/user-attachments/assets/a8198b34-a905-45b8-8a13-5fe8784a0e8a" />
+Führen Sie das Hauptskript aus und geben Sie den zu analysierenden E-Mail-Text in die Konsole ein:
+Bash
 
----
+python src/main.py
 
-### Vergleich mit Naive-Bayes-Algorithmen
-- drei Varianten getestet
+Das Skript fordert zur Eingabe auf:
 
-<img width="811" height="742" alt="Navies bayes vergleich" src="https://github.com/user-attachments/assets/57bd3b76-a64d-4b42-9eae-f7be4b9f3f2c" />
+Bitte Email-Text eingeben:
 
----
+3.3 Ergebnisse und Weiterleitungsempfehlung
 
-## **Tag 2**
+Die Pipeline liefert ein sequenzielles Ergebnis:
+A. Ergebnis bei Spam-Erkennung
 
-*in Arbeit …*
+Wenn die Spam-Wahrscheinlichkeit über 75% liegt:
+
+📊 Ergebnis der Spam-Prüfung:
+→ Hauptklasse: spam
+🛑 Nachricht wurde als SPAM klassifiziert.
+
+(Die Nachricht wird protokolliert und der Prozess beendet.)
+B. Ergebnis bei Themenklassifikation
+
+Wenn die E-Mail als 'Ham' erkannt wird:
+
+📊 Ergebnis der Spam-Prüfung:
+→ Hauptklasse: ham
+✔️ Nachricht ist kein Spam. Leite zur Kategorisierung weiter...
+🎉 Endergebnis: E-Mail ist 'Ham' und gehört zur Kategorie: **[Kategorie]**
+
+(Das Ergebnis [Kategorie] dient als Weiterleitungsempfehlung an die zuständige Fachabteilung.)
+4. Retraining und Erweiterung
+
+Um die Modelle zu aktualisieren oder auf neue Kategorien zu erweitern, führen Sie das Trainingsskript aus:
+Bash
+
+python src/spam_train.py
+
+    Dieses Skript liest die vorverarbeiteten Trainingsdaten ein.
+
+    Es trainiert den TF-IDF Vectorizer neu.
+
+    Es trainiert die Logistische Regression für die Klassifikation neu.
+
+    Es speichert die neuen Modellartefakte automatisch im Ordner models/

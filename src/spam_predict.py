@@ -4,25 +4,29 @@ import joblib
 from datetime import datetime
 
 VECTORIZER_FILE = r"C:\Users\Student\Desktop\Abschluss Projekt\Projekt\models\spam_vectorizer.pkl"
-SPAM_MODEL_FILE = r"C:\Users\Student\Desktop\Abschluss Projekt\Projekt\models\complement_nb.pkl"   
+SPAM_MODEL_FILE = r"C:\Users\Student\Desktop\Abschluss Projekt\Projekt\models\complement_nb.pkl"
 SPAM_LOG_FILE = r"C:\Users\Student\Desktop\Abschluss Projekt\Projekt\data/spam_log_daten.csv"
 
-
 # ---------------------------
-# Modelle laden
+# Initialisierung (Modelle einmalig laden)
 # ---------------------------
-def load_models():
+def _load_spam_models():
+    if not os.path.exists(VECTORIZER_FILE) or not os.path.exists(SPAM_MODEL_FILE):
+        print("FEHLER: Spam-Modelle oder Vectorizer nicht gefunden.")
+        return None, None
+    
+    print("Spam-Modell und Vectorizer werden geladen...")
     vectorizer = joblib.load(VECTORIZER_FILE)
     spam_model = joblib.load(SPAM_MODEL_FILE)
     return vectorizer, spam_model
 
+GLOBAL_SPAM_VECTORIZER, GLOBAL_SPAM_MODEL = _load_spam_models()
 
 # ---------------------------
-# Spam speichern
+# Log-Funktion
 # ---------------------------
 def save_spam_to_log(text, prediction, probability):
     os.makedirs("Projekt/data", exist_ok=True)
-
     file_exists = os.path.isfile(SPAM_LOG_FILE)
 
     with open(SPAM_LOG_FILE, "a", newline="", encoding="utf-8") as f:
@@ -40,41 +44,19 @@ def save_spam_to_log(text, prediction, probability):
 
 
 # ---------------------------
-# Klassifikation
+# Klassifikation (Öffentliche Funktion)
 # ---------------------------
-def classify(text):
-    vectorizer, spam_model = load_models()
+def classify_spam(text):
+    if GLOBAL_SPAM_MODEL is None:
+        return "error", 0.0 # Fehlerbehandlung
 
-    X_vec = vectorizer.transform([text])
-    proba = spam_model.predict_proba(X_vec)[0]
-    classes = spam_model.classes_
+    X_vec = GLOBAL_SPAM_VECTORIZER.transform([text])
+    proba = GLOBAL_SPAM_MODEL.predict_proba(X_vec)[0]
+    classes = GLOBAL_SPAM_MODEL.classes_
 
     idx_spam = list(classes).index("spam")
     prob_spam = proba[idx_spam]
 
-    label = "spam" if prob_spam > 0.5 else "ham"
+    label = "spam" if prob_spam > 0.75 else "ham"
 
     return label, prob_spam
-
-
-# ---------------------------
-# Main
-# ---------------------------
-def main():
-    text = input("Bitte Email-Text eingeben:\n")
-
-    label, prob_spam = classify(text)
-
-    print("\n📊 Ergebnis:")
-    print(f"→ Hauptklasse: {label}")
-
-    if label == "spam":
-        print("ℹ️  Nachricht wurde als Spam klassifiziert.")
-        save_spam_to_log(text, label, prob_spam)
-        print(f"💾 Spam gespeichert in: {SPAM_LOG_FILE}")
-    else:
-        print("✔️ Nachricht ist kein Spam. Wird zur nächsten Klassifizierung weitergeleitet.")
-
-
-if __name__ == "__main__":
-    main()
